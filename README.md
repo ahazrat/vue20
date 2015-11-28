@@ -16,3 +16,4 @@ Hello, World!
 ## Contact
 - **Mustafa Hazrat** `Board Member`
 - **Asif Hazrat** `Web Developer`
+- **Hunaid Arastu** `Front-end Developer`
